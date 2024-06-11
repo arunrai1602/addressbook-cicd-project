@@ -1,4 +1,4 @@
-THis is the readme content and let me update
+THis is the readme content and let me update it.
 ##Addressbook Tutoriall
 ====================
 
